@@ -1,2 +1,3 @@
-# template
-project template
+# simple_app
+
+simple and funny fastapi application 
